@@ -1,0 +1,31 @@
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+    color: deepskyblue;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+
+li a:hover{
+    background-color: deepskyblue;
+    padding: 15px;
+    color: black;
+    font-size: xx-large;
+}
+
+#img_botones{
+    width: 100% !important;
+}
+
+#nav{
+    text-align: center;
+    margin-top: -30px;
+    padding: 20px;
+}
+

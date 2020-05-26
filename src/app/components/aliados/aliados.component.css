@@ -1,0 +1,29 @@
+#titulo{
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: -15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#ciclope{
+    margin-top: -39px;  
+}
+
+table{
+    padding: 0px;
+    margin-left: 90px;
+    background-color: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+img{
+    padding: 20px;
+}
